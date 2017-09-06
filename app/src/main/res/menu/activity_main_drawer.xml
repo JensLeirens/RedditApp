@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/announcements"
+            android:title="Announcements"/>
+        <item
+            android:id="@+id/GoT"
+            android:title="Game of Thrones" />
+        <item
+            android:id="@+id/funny"
+            android:title="Funny" />
+        <item
+            android:id="@+id/science"
+            android:title="Science" />
+        <item
+            android:id="@+id/belgium"
+            android:title="Belgium" />
+
+        <item
+            android:id="@+id/gaming"
+            android:title="Gaming" />
+
+    </group>
+
+
+</menu>
